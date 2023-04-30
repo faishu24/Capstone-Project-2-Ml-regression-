@@ -1,2 +1,2 @@
-# I completed my ml regression capstone project 2
+# I completed my MLregression capstone project 2
 
